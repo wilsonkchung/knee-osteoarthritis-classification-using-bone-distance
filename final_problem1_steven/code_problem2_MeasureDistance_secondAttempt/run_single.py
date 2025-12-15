@@ -1,7 +1,7 @@
-from load_masks import load_mask, clean_mask
-from split_objects import split_by_midline
-from boundaries import get_boundary_coords
-from distance import distance_nn
+from load_masks2 import load_mask, clean_mask
+from split_objects2 import split_by_midline
+from boundaries2 import get_boundary_coords
+from distance2 import distance_nn
 
 path = "../../preds/9005075_077_pred.png"
 

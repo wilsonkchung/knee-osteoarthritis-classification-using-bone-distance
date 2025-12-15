@@ -1,5 +1,5 @@
 import glob
-from load_masks import load_mask, clean_mask, enforce_slice_continuity, interpolate_missing_slices
+from load_masks2 import load_mask, clean_mask, enforce_slice_continuity, interpolate_missing_slices
 
 def load_and_process(folder):
     paths = sorted(glob.glob(folder + "/*.png"))
