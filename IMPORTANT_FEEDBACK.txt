@@ -1,0 +1,5 @@
+Try if-else to work with bad case (not enough data, bad data and outliers)
+
+When algo is unable to or have difficulty calculate a distance from a slice, most likely is bad case of OA.
+
+Evaluation metrics for cross validation and models should be AUC score (more comprehensive), or F1 score. (most importatn score for model comparison)
